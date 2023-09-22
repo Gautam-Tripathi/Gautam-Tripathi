@@ -17,6 +17,6 @@
 * 💡 Reinforcement learning (next on my list)
 # Contact Me
 I love connecting with fellow data enthusiasts, Pythonistas, and machine learning aficionados. Feel free to reach out to me on:
-* 💼 LinkedIn:[Gautam Sumanyu Tripathi](https://www.linkedin.com/in/gautam-tripathi-933a2b231/)
+* 💼 LinkedIn: [Gautam Sumanyu Tripathi](https://www.linkedin.com/in/gautam-tripathi-933a2b231/)
 
 Thank you for visiting my GitHub profile. I look forward to connecting with you and sharing our knowledge and passion for data science and Python. Happy coding! 🚀
