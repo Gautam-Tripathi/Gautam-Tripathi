@@ -1,5 +1,5 @@
 # About Me
-#### Hello there! 👋 I'm Gautam, a passionate Python developer with a strong interest in data science and a growing fascination with machine learning. I'm excited to share my journey of learning and exploring the fascinating world of data-driven technologies. This GitHub profile is a showcase of my projects, contributions, and the evolution of my skills.
+#### Hello there! 👋 I'm Gautam, a passionate Python developer with a strong interest in data science and a growing fascination with machine learning and Deep learning. I'm excited to share my learning journey and explore the fascinating world of data-driven technologies. This GitHub profile showcases my projects, contributions, and the evolution of my skills.
 # My Interests
 * 🐍 Python enthusiast
 * 📊 Data science explorer
@@ -15,6 +15,7 @@
 * 📉 Model evaluation and optimization
 * 📈 Time series analysis
 * 💡 Reinforcement learning (next on my list)
+* TensorFlow framework
 # Contact Me
 I love connecting with fellow data enthusiasts, Pythonistas, and machine learning aficionados. Feel free to reach out to me on:
 * 💼 LinkedIn: [Gautam Sumanyu Tripathi](https://www.linkedin.com/in/gautam-tripathi-933a2b231/)
